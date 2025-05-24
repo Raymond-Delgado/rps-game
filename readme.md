@@ -19,4 +19,3 @@ Once the selection is made, the program randomly chooses a number between 1 and 
 ## Further plans for this project
 This project has reached its final version and will not be developed further. However, feedback and suggestions for improving the code are always welcome! If you have advice on optimizing performance, refining logic, or enhancing readability, it would be greatly appreciated.
 Thank you for your time and input! 
-# rps-game
